@@ -1,2 +1,3 @@
-# rapid-knowledge-base-0gwr
-Automated issue comment bot repository
+# Rapid Knowledge Base 0Gwr
+
+Automated issue comment bot repository.
